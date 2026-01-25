@@ -1,3 +1,4 @@
+// tire class
 public class Tire {
     private double size;
     public Tire(double size) {

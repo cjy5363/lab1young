@@ -1,3 +1,4 @@
+// tanksize class
 public class TankSize {
 
     private double size; // can represent capacity in liters or gallons

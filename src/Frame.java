@@ -1,3 +1,4 @@
+// frame class
 public class Frame {
     private Material material;
     public Frame(Material material) {
