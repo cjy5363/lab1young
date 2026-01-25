@@ -24,8 +24,8 @@ public class Motorcycle {
      *
      * @param color This is the color of the motorcycle.
      * @param brand This is the brand of the motorcycle.
-     * @param size This is the size of the motorcycle.
-     * @param frameMaterial This is the material of the motorcycle frame.
+     * @param size This is the sizeof the motorcycle
+     * @param frameMaterial This is theMaterial of the motorcycle frame.
      * @param tires These are the tires for the motorcycle.
      */
     public Motorcycle(String color, String brand, double size, Material frameMaterial, Tire[] tires) {
